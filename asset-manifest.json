@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ineConverter/static/css/main.a61b5ccf.css",
+    "main.js": "/ineConverter/static/js/main.06589789.js",
+    "index.html": "/ineConverter/index.html",
+    "main.a61b5ccf.css.map": "/ineConverter/static/css/main.a61b5ccf.css.map",
+    "main.06589789.js.map": "/ineConverter/static/js/main.06589789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a61b5ccf.css",
+    "static/js/main.06589789.js"
+  ]
+}
